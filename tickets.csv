@@ -1,0 +1,7 @@
+ticket_id,category,impact,urgency,status,summary
+HD-101,Login,2,3,Open,Student cannot sign into test laptop
+HD-102,Printer,1,1,Open,Training room printer unavailable
+HD-103,Network,3,3,Open,Lab network unavailable
+HD-104,Software,1,2,Resolved,Demo application fails to launch
+HD-105,Account,2,2,Open,Practice account access request
+HD-106,Hardware,1,1,Open,Mouse intermittently disconnects
